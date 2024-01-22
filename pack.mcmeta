@@ -1,0 +1,39 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            15,
+            22
+        ],
+        "description": [
+            {
+                "text": "\u00a7lSparkles",
+                "color": "#7cfc00"
+            },
+            {
+                "text": " - ",
+                "color": "gray"
+            },
+            {
+                "text": "Alpha Is. ADDON",
+                "color": "#987654"
+            },
+            {
+                "text": "\nCreated by ",
+                "color": "gray"
+            },
+            {
+                "text": "Stardust Labs",
+                "color": "#683edd"
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": 22,
+                "directory": "1-20-3-overlay"
+            }
+        ]
+    }
+}
